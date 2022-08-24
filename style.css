@@ -12,6 +12,7 @@ body {
 /* Style the header */
 .header {
     color: rgb(39, 39, 38);
+    background-color: bisque;
     padding: 20px;
     text-align: center;
   }
